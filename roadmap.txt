@@ -1,0 +1,19 @@
+Coletar dados da api Coingeko com pyhon
+validar resposta da api
+tratar colunas
+(apenas dados crus, não serão desenvolvidas métricas ainda)
+
+## Análise exploratória ( python)
+entender comportamentos
+ver colunas uteis
+descobrir analises para o power bi
+(notebook ou markdown com graficos e explicacoes)
+
+
+Criar uma automacao de salvamento em tempo real no PostgreeSQL local
+que nao comprometa o armazenamento, sempre reciclando os dados
+salvar os dados no PostgreeSQL,
+
+Importar esses dados do PostgreeSQL no power bi
+fazer os graficos, tudo em tempo real
+
